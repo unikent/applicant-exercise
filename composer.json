@@ -1,0 +1,8 @@
+{
+	"name": "unikent/webdev-applicant-exercise",
+	"description": "A skeletion for potential blog app",
+	"require": {},
+	"require-dev": {
+		"phpunit/phpunit": "^5.3"
+	}
+}

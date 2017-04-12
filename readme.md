@@ -16,7 +16,7 @@ Required features:
 
 Feel free to use our demo as a starting point (or throw it away and start again!). Feel free to use any libraries and frameworks or none at all. If you choose to use version control, please provide your .git directory or a change log.
 
-Please email your sample application to is-webdev@kent.ac.uk and G.Ray@kent.ac.uk as a zip along with a paragraph or two explaining your design and development decisions.
+Please email your sample application to is-webdev@kent.ac.uk and M.McCartney-989@kent.ac.uk as a zip along with a paragraph or two explaining your design and development decisions.
 
 
 ## Blogs API Overview

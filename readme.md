@@ -14,7 +14,7 @@ Required features:
 * Include some styling to ensure a decent user experience
 * Render appropriately across a range of devices and browsers (IE9+), considering accessibility
 
-Feel free to use our demo as a starting point (or throw it away and start again!). Feel free to use any libraries and frameworks or none at all. If you choose to use version control, please provide your .git directory or a change log.
+Feel free to use our demo as a starting point (or throw it away and start again!). Feel free to use any libraries and frameworks or none at all. If you choose to use version control, please provide your .git directory or a change log. Please also give us some insight into your thought processes in a readme.
 
 Please email your sample application to is-webdev@kent.ac.uk and M.McCartney-989@kent.ac.uk as a zip along with a paragraph or two explaining your design and development decisions.
 
